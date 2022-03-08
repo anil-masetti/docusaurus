@@ -1,0 +1,11 @@
+{
+    "name": "aws-node-project",
+    "version": "1.0.0",
+    "description": "",
+    "devDependencies": {
+        "serverless-s3-sync": "^1.10.2"
+    },
+    "dependencies": {
+        "serverless": "^3.7.1"
+    }
+}
